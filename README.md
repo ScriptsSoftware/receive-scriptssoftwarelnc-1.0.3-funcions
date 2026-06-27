@@ -1,2 +1,2 @@
 # receive-scriptssoftwarelnc-1.0.3-funcions
-in..
+puede usar como geador de uuids y mas..
